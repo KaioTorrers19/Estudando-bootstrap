@@ -1,0 +1,15 @@
+.navbar{
+    background-color: green;}
+
+.carousel-inner{
+    height: 400px;
+}
+
+.card-group{
+padding: 50px ; 
+}
+.card{
+    padding: 10px;
+    border: 10px;
+    border-color: black;
+}
